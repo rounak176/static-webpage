@@ -478,7 +478,7 @@ hr.light.sec-banner {
     background-color: #fff;
     padding: 50px;
     border-radius: 30px;
-    height: 480px;
+    height: 100%;
     box-shadow: 0 10px 30px -15px #999;
 }
 
@@ -501,7 +501,7 @@ hr.light.sec-banner {
 
     .card-info {
         margin: 20px;
-        height: max-content;
+        height: 100%;
 
     }
 
@@ -512,7 +512,7 @@ hr.light.sec-banner {
 
 @media (max-width: 1200px) {
     .card-info {
-        height: max-content;
+        height: 100%;
     }
 }
 
